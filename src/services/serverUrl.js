@@ -1,0 +1,1 @@
+export const serverUrl='https://mediaplayerserver-lb5g.onrender.com'
